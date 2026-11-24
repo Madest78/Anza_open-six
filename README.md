@@ -15,8 +15,7 @@ compatible with Fender-style necks (Telecaster pocket).
 Coming soon: FreeCAD sources, STL, bill of materials.
 
 ## Follow the build
-Development log: (link to Hackaday.io, coming soon)
-
+Development log on Hackaday.io: https://hackaday.io/madest78
 Made in Georgia by a Belarusian maker.
 
 ## License
