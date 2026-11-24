@@ -5,7 +5,7 @@ Aluminum, plastic, wooden.
 
 ## Goal
 A guitar that costs a fraction of a regular one, so talent
-isn't blocked by a $100-200 price tag.
+isn't blocked by a $100 price tag.
 
 ## Status
 Early design stage. Working on a universal neck shoe
