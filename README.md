@@ -18,3 +18,6 @@ Coming soon: FreeCAD sources, STL, bill of materials.
 Development log: (link to Hackaday.io, coming soon)
 
 Made in Georgia by a Belarusian maker.
+
+## License
+Designs and files: CC0 1.0 (public domain dedication)
