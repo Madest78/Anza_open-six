@@ -1,7 +1,7 @@
 # Anza Open six
 
 Open-source electric guitar that anyone can build cheaply.
-Aluminum body, plastic parts, wooden neck.
+Aluminum, plastic, wooden.
 
 ## Goal
 A guitar that costs a fraction of a regular one, so talent
